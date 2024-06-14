@@ -1,0 +1,72 @@
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe.config
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.dll
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.dll
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.xml
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.xml
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.AssemblyReference.cache
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Properties.Resources.resources
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.GenerateResource.cache
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.CoreCompileInputs.cache
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_1.532A9CD3.Up2Date
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Migrations.InitialMigration.resources
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Form1.resources
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext.mdf
+D:\programirane zadachi\c#\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext_log.ldf
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext.mdf
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext_log.ldf
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe.config
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.pdb
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Migrations.InitialMigration.resources
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_1.532A9CD3.Up2Date
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.exe
+C:\Users\Admin\OneDrive\Desktop\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext.mdf
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext_log.ldf
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe.config
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.dll
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.dll
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.xml
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.xml
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.AssemblyReference.cache
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Form1.resources
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Migrations.InitialMigration.resources
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Properties.Resources.resources
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.GenerateResource.cache
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.CoreCompileInputs.cache
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_1.532A9CD3.Up2Date
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Vegetables-project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext.mdf
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\VegetableContext_log.ldf
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe.config
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\Teodor_11a_23.pdb
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.dll
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.dll
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.xml
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\bin\Debug\EntityFramework.SqlServer.xml
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.AssemblyReference.cache
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Form1.resources
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Migrations.InitialMigration.resources
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.Properties.Resources.resources
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.GenerateResource.cache
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.csproj.CoreCompileInputs.cache
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_1.532A9CD3.Up2Date
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.exe
+D:\programirane zadachi\c#\Vegetables_Project-main\Teodor_11a_23\Teodor_11a_23\obj\Debug\Teodor_11a_23.pdb
